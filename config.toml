@@ -1,4 +1,4 @@
 baseURL = 'https://rosaainz.github.io/RosaSainz-Blog/'
 languageCode = 'en-us'
 title = 'My Blog Rosa'
-theme = 'ananke'
+theme = 'risotto'
