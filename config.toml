@@ -8,9 +8,8 @@ palette = "base16-dark"
 
 # Sidebar: about/bio
 [params.about]
-title = "Who is penning this?"
-description = ""
-logo = "images/corazon.png"
+title = "TechBagaje"
+description = "🐛 My learning journal"
 
 [menu]
 
@@ -18,4 +17,9 @@ logo = "images/corazon.png"
     identifier = "about"
     name = "About"
     url = "/about/"
+    weight = 10
+
+    identifier = "posts"
+    name = "Prueba"
+    url = "/posts/"
     weight = 10
