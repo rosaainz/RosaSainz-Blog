@@ -3,12 +3,14 @@ languageCode = 'en-us'
 title = 'TechBagaje'
 theme = 'risotto'
 
+[params.theme]
+palette = "base16-dark"
 
 # Sidebar: about/bio
 [params.about]
-title = "risotto"
+title = "Who is penning this?"
 description = ""
-logo = "images/rice.svg"
+logo = "images/corazon.png"
 
 [menu]
 
