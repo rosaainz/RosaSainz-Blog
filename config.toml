@@ -2,3 +2,18 @@ baseURL = 'https://rosaainz.github.io/RosaSainz-Blog/'
 languageCode = 'en-us'
 title = 'TechBagaje'
 theme = 'risotto'
+
+
+# Sidebar: about/bio
+[params.about]
+title = "risotto"
+description = ""
+logo = "images/rice.svg"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
