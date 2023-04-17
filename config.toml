@@ -21,6 +21,6 @@ description = "🐛 My learning journal"
 
 [[menu.main]]
     identifier = "posts"
-    name = "Prueba"
+    name = "Posts"
     url = "/posts/"
     weight = 10
