@@ -4,7 +4,7 @@ title = 'TechBagaje'
 theme = 'risotto'
 
 [params.theme]
-palette = "base16-Green"
+palette = "base16-Dark"
 
 # Sidebar: about/bio
 [params.about]
