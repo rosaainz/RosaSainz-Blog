@@ -11,6 +11,21 @@ palette = "base16-dark"
 title = "TechBagaje"
 description = "🐛 My learning journal"
 
+# Sidebar: social links
+# Available icon sets:
+# * FontAwesome 6 <https://fontawesome.com/> ('fa-brands', 'fa-normal', or 'fa-solid' for brands)
+# * Academicons <https://jpswalsh.github.io/academicons> ('ai ai-')
+
+[[params.socialLinks]]
+icon = "fa-brands fa-github"
+title = "GitHub"
+url = "https://github.com/rosaainz"
+
+[[params.socialLinks]]
+icon = "fa-solid fa-envelope"
+title = "Email"
+url = "mailto:rosagsainz.21@gmail.com"
+
 [menu]
 
   [[menu.main]]
