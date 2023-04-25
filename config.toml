@@ -42,3 +42,7 @@ url = "mailto:rosagsainz.21@gmail.com"
     name = "Posts"
     url = "/posts/"
     weight = 10
+
+# For hugo >= 0.60.0, enable inline HTML
+[markup.goldmark.renderer]
+unsafe = true

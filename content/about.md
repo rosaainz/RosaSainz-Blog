@@ -2,7 +2,7 @@
 title: "About"
 date: 2023-04-16T21:22:09-06:00
 draft: false
-aliases: ["about", "contact"]
+aliases: ["about-us", "contact"]
 author: "Rosa Sainz"
 ---
 
