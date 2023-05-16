@@ -1,1 +1,14 @@
 colorScheme = "Otoño"
+
+
+
+[homepage]
+  layout = "background" # valid options: page, profile, hero, card, background, custom
+  homepageImage = "/img/luz.jpg"
+  showRecent = false
+  showRecentItems = 6
+  showMoreLink = true
+  showMoreLinkDest = "docs"
+  cardView = false
+  cardViewScreenWidth = false
+  layoutBackgroundBlur = true # only used when layout equals background
