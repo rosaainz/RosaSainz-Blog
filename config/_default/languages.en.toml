@@ -1,0 +1,10 @@
+title = "MyTechBagaje"
+
+[author]
+name = "Rosa Sainz"
+image = "img/yo.jpg"
+headline = "My experiences learning software engineering 💫"
+links = [
+  { twitter = "https://twitter.com/RosaaSainz" },
+  { github = "https://github.com/rosaainz" }
+]
