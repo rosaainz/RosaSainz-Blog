@@ -10,15 +10,17 @@
   pageRef = "about"
   weight = 20
 
+  [[main]]
+  name = "Experience"
+  pageRef = "experience"
+  weight = 20
+
 [[main]]
   name = "Projects"
   pageRef = "projects"
   weight = 20
 
-[[main]]
-  name = "Experience"
-  pageRef = "projects"
-  weight = 20
+
 
 [[main]]
   pre = "github"
