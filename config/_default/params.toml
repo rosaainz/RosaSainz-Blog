@@ -1,4 +1,8 @@
 colorScheme = "Otoño"
+defaultAppearance = "dark"
+autoSwitchAppearance = true
+
+highlightCurrentMenuArea = true
 
 
 [homepage]
@@ -9,5 +13,36 @@ colorScheme = "Otoño"
   showMoreLink = true
   showMoreLinkDest = "docs"
   cardView = false
-  cardViewScreenWidth = false
+  cardViewScreenWidth = true
   layoutBackgroundBlur = true
+
+
+[footer]
+  showCopyright = true
+  showThemeAttribution = true
+  showAppearanceSwitcher = true
+  showScrollToTop = true
+
+  [article]
+  showDate = true
+  showViews = true
+  #showLikes = true
+  showDateUpdated = false
+  showAuthor = true
+  showHero = true
+  heroStyle = "background" # valid options: basic, big, background
+  showBreadcrumbs = true
+  showDraftLabel = true
+  showEdit = false
+  # editURL = "https://github.com/username/repo/"
+  editAppendPath = true
+  showHeadingAnchors = true
+  showPagination = true
+  invertPagination = false
+  showReadingTime = true
+  showTableOfContents = true
+  showTaxonomies = true
+  showAuthorsBadges = true
+  showWordCount = true
+  showSummary = true
+  sharingLinks = [ "github", "twitter" , "email"]

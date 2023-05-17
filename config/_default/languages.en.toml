@@ -1,10 +1,12 @@
-title = "MyTechBagaje"
+title = "Rosa Sainz"
+#logo = "img/murcielago.png"
 
 [author]
 name = "Rosa Sainz"
 image = "img/yo.jpg"
 headline = "My experiences learning software engineering 💫"
 links = [
+  { github = "https://github.com/rosaainz" },
   { twitter = "https://twitter.com/RosaaSainz" },
-  { github = "https://github.com/rosaainz" }
+   { email = "mailto:rosagsainz.21@gmail.com" }
 ]

@@ -1,9 +1,24 @@
 # -- Main Menu --
 
 [[main]]
-  name = "Blog"
+  name = "Posts"
   pageRef = "posts"
   weight = 10
+
+[[main]]
+  name = "About"
+  pageRef = "about"
+  weight = 20
+
+[[main]]
+  name = "Projects"
+  pageRef = "projects"
+  weight = 20
+
+[[main]]
+  name = "Experience"
+  pageRef = "projects"
+  weight = 20
 
 [[main]]
   pre = "github"

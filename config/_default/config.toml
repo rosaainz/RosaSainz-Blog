@@ -1,20 +1,22 @@
 baseURL = 'https://rosaainz.github.io/RosaSainz-Blog/'
-languageCode = 'en-us'
-title = 'myTechBagaje'
+languageCode = 'en'
+title = 'RosaSainz'
 theme = 'blowfish'
 
+enableRobotsTXT = true
+paginate = 10
+summaryLength = 30
 
-[menu]
+buildDrafts = false
+buildFuture = false
 
-  [[menu.main]]
-    identifier = "about"
-    name = "About Me"
-    url = "/about/"
-    weight = 10
+[sitemap]
+  changefreq = 'daily'
+  filename = 'sitemap.xml'
+  priority = 0.5
 
-[[menu.main]]
-    identifier = "posts"
-    name = "Posts"
-    url = "/posts/"
-    weight = 10
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+
 
