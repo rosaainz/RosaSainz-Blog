@@ -47,7 +47,7 @@ highlightCurrentMenuArea = true
   showAuthorsBadges = true
   showWordCount = true
   showSummary = true
-  sharingLinks = [ "linkedin", "twitter", "facebook", "email"]
+  sharingLinks = [ "linkedin", "twitter", "email"]
 
   [list]
   showBreadcrumbs = false
@@ -55,4 +55,10 @@ highlightCurrentMenuArea = true
   showTableOfContents = false
   showCards = true
   groupByYear = true 
+
+  [sitemap]
+  excludedKinds = []
+
+[taxonomy]
+  showTermCount = true
 
