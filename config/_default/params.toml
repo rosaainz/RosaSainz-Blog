@@ -58,7 +58,7 @@ highlightCurrentMenuArea = true
   groupByYear = true
   showHero = true
   layoutBackgroundBlur = true
-  heroStyle = "basic"
+  heroStyle = "background"
   cardView = true
 
 
