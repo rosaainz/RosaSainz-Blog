@@ -1,5 +1,5 @@
 baseURL = 'https://rosaainz.github.io/RosaSainz-Blog/'
-languageCode = 'es'
+languageCode = 'en'
 title = 'RosaSainz'
 theme = 'blowfish'
 

@@ -48,13 +48,19 @@ highlightCurrentMenuArea = true
   showWordCount = true
   showSummary = true
   sharingLinks = [ "linkedin", "twitter", "email"]
+  layoutBackgroundBlur = true
 
   [list]
-  showBreadcrumbs = false
-  showSummary = true
+  showBreadcrumbs = true
+  showSummary = false
   showTableOfContents = true
   showCards = true
-  groupByYear = true 
+  groupByYear = true
+  showHero = true
+  layoutBackgroundBlur = true
+  heroStyle = "basic"
+  cardView = true
+
 
   [sitemap]
   excludedKinds = []
