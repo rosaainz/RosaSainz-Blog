@@ -1,5 +1,5 @@
 baseURL = 'https://rosaainz.github.io/RosaSainz-Blog/'
-languageCode = 'en'
+languageCode = 'es'
 title = 'RosaSainz'
 theme = 'blowfish'
 
@@ -9,6 +9,7 @@ summaryLength = 30
 
 buildDrafts = false
 buildFuture = false
+
 
 [sitemap]
   changefreq = 'daily'

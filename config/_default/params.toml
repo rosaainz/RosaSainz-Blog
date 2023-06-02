@@ -52,7 +52,7 @@ highlightCurrentMenuArea = true
   [list]
   showBreadcrumbs = false
   showSummary = true
-  showTableOfContents = false
+  showTableOfContents = true
   showCards = true
   groupByYear = true 
 

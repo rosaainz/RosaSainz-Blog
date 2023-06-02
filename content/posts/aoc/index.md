@@ -10,6 +10,10 @@ tags:
 - aoc
 ---
 
-AdventOfCode (AOC): [adventOfCode](https://adventofcode.com/)    
+## Intro
+Advent of Code is a series of problems that are presented to the public every year during the month of December. Here's more information: [adventOfCode](https://adventofcode.com/)    
 
-{{< figure src="advent.png" alt="Advent of code logo" >}}
+## Repo
+This post is dedicated to the problems of 2015, but in this [repository](https://github.com/rosaainz/adventOfCode_mySolutions), you will find my solutions for this and other years.
+
+## Experience

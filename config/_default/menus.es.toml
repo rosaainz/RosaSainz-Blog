@@ -1,22 +1,22 @@
 # -- Main Menu --
 
 [[main]]
-  name = "Posts"
+  name = "Articulos"
   pageRef = "posts"
   weight = 10
 
 [[main]]
-  name = "About"
+  name = "Sobre mi"
   pageRef = "about"
   weight = 20
 
   [[main]]
-  name = "Experience"
+  name = "Experiencia"
   pageRef = "experience"
   weight = 20
 
 [[main]]
-  name = "Projects"
+  name = "Proyectos"
   pageRef = "projects"
   weight = 20
 

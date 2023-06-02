@@ -1,0 +1,8 @@
+languages:
+   en:
+    languageName: English
+    weight: 1
+   es:
+    languageName: Spanish
+    weight: 2
+  
