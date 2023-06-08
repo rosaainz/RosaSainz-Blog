@@ -8,14 +8,13 @@ highlightCurrentMenuArea = true
 [homepage]
   layout = "background"
   homepageImage = "/img/luz.jpg"
-  showRecent = true
-  showRecentItems = 5
-  showMoreLink = false
-  showMoreLinkDest = "/posts"
+  showRecent = false
+  showRecentItems = 6
+  showMoreLink = true
+  showMoreLinkDest = "docs"
   cardView = false
   cardViewScreenWidth = true
   layoutBackgroundBlur = true
-
 
 
 [footer]
@@ -24,12 +23,11 @@ highlightCurrentMenuArea = true
   showAppearanceSwitcher = true
   showScrollToTop = true
 
-  
-[article]
+  [article]
   showDate = true
-  #showViews = true
+  showViews = true
   #showLikes = true
-  showDateUpdated = true
+  showDateUpdated = false
   showAuthor = true
   showHero = true
   heroStyle = "background" # valid options: basic, big, background
@@ -47,23 +45,4 @@ highlightCurrentMenuArea = true
   showAuthorsBadges = true
   showWordCount = true
   showSummary = true
-  sharingLinks = [ "linkedin", "twitter", "email"]
-  layoutBackgroundBlur = true
-
-  [list]
-  showBreadcrumbs = true
-  showSummary = false
-  showTableOfContents = true
-  showCards = true
-  groupByYear = true
-  showHero = true
-  layoutBackgroundBlur = true
-  cardView = true
-
-
-  [sitemap]
-  excludedKinds = []
-
-[taxonomy]
-  showTermCount = true
-
+  sharingLinks = [ "github", "twitter" , "email"]
