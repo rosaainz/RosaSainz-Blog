@@ -7,7 +7,7 @@ showEdit: false
 draft: false
 ---
 
-{{< figure src="thatsMe.jpg" alt="my office" default="true" >}}
+{{< figure src="thatsMe.jpg" alt="me" default="true" >}}
 
 ## Who am I?
 Hi! My name is Rosa Sainz, and I am delighted to share my passion for technology, my learning experiences, and my learning journey with you. To be honest, technology didn't always captivate me. During my childhood, I had limited exposure to electronic devices. However, my innate curiosity and fascination with finding solutions and making improvements have always driven me.
@@ -23,7 +23,7 @@ My interest in technology started when I was studying electrical engineering at 
 
 At first, I thought people studying computer science were really smart and had been coding for a long time. I was afraid that if I changed my career, I would struggle to catch up. However, I took a leap of faith and trusted in myself, thanks in part to a teacher who encouraged me and taught me about logical design, Linux, and C programming.
 
-{{< figure src="diseño.jpg" alt="my office" default="true" >}}
+{{< figure src="diseño.jpg" alt="my homework" default="true" >}}
 
 Soon after, the pandemic hit, and the way I was learning became challenging. Communication with my teachers wasn't great, and I often had to study on my own. So, I started looking for online resources to help me learn. That's when I found MakingDevs, where I'm currently training as a software engineer.
 
