@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rosaainz.github.io/RosaSainz-Blog/sitemap.xml

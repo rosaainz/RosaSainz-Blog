@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>practice on Rosa Sainz</title>
+    <link>https://rosaainz.github.io/RosaSainz-Blog/categories/practice/</link>
+    <description>Recent content in practice on Rosa Sainz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2023 Rosa Sainz</copyright>
+    <lastBuildDate>Tue, 16 May 2023 21:42:07 -0600</lastBuildDate><atom:link href="https://rosaainz.github.io/RosaSainz-Blog/categories/practice/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My experience solving AOC problems</title>
+      <link>https://rosaainz.github.io/RosaSainz-Blog/posts/aoc/</link>
+      <pubDate>Tue, 16 May 2023 21:42:07 -0600</pubDate>
+      
+      <guid>https://rosaainz.github.io/RosaSainz-Blog/posts/aoc/</guid>
+      <description>Intro # Advent of Code is a series of problems that are presented to the public every year during the month of December. Here&amp;rsquo;s more information: adventOfCode
+Repo # This post is dedicated to the problems of 2015, but in this repository, you will find my solutions for this and other years.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

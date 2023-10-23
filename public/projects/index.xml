@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Rosa Sainz</title>
+    <link>https://rosaainz.github.io/RosaSainz-Blog/projects/</link>
+    <description>Recent content in Projects on Rosa Sainz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2023 Rosa Sainz</copyright>
+    <lastBuildDate>Wed, 31 May 2023 23:00:06 -0600</lastBuildDate><atom:link href="https://rosaainz.github.io/RosaSainz-Blog/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Order_whats</title>
+      <link>https://rosaainz.github.io/RosaSainz-Blog/projects/order_whats/</link>
+      <pubDate>Wed, 31 May 2023 23:00:06 -0600</pubDate>
+      
+      <guid>https://rosaainz.github.io/RosaSainz-Blog/projects/order_whats/</guid>
+      <description>Intro # The project involves receiving an order via WhatsApp for a product and the system sending a message back with the quotation for the order.
+Inputs # Examples of the input:</description>
+      
+    </item>
+    
+  </channel>
+</rss>
