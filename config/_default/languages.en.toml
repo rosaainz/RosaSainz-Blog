@@ -3,7 +3,7 @@ title = "Rosa Sainz"
 
 [author]
 name = "Rosa Sainz"
-image = "img/profile.jpg"
+image = "img/profile.png"
 headline = "My experiences learning software engineering 💫"
 links = [
   { github = "https://github.com/rosaainz" },
