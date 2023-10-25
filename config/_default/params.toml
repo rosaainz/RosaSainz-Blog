@@ -7,8 +7,8 @@ highlightCurrentMenuArea = true
 
 [homepage]
   layout = "background"
-  homepageImage = "/img/luz.jpg"
-  showRecent = false
+  homepageImage = "/img/blue.jpeg"
+  showRecent = true
   showRecentItems = 6
   showMoreLink = true
   showMoreLinkDest = "docs"
